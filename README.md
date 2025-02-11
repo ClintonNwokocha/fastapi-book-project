@@ -38,7 +38,7 @@ fastapi-book-project/
 
 ## Technologies Used
 
-- Python 3.12
+- Python 3.12.8
 - FastAPI
 - Pydantic
 - pytest
